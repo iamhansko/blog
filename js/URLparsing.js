@@ -57,7 +57,7 @@ if (isLocal) {
   // 클릭했을 때 메인페이지로 이동
   $blogTitle.onclick = () => {
     // const url = new URL(`https://${siteConfig.username}.github.io/${siteConfig.repositoryName}/`);
-    const url = new URL("https://blog.gobongbap.com");
+    const url = new URL("https://www.hansko.kr");
     window.history.pushState({}, "", url);
     renderBlogList();
   };

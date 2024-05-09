@@ -35,7 +35,7 @@ window.addEventListener("click", (event) => {
             }
             // console.log(origin)
             // const url = new URL(origin);
-            const url = "https://blog.gobongbap.com";
+            const url = "https://www.hansko.kr";
             url.searchParams.set("menu", event.target.innerText + ".md");
             window.history.pushState({}, "", url);
             mobileMenu.innerHTML = "";
