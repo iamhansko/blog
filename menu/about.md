@@ -1,21 +1,56 @@
 # about
 
-* hello world a
-* hello world a
-* hello world a
+<html>
+<style>
+img {
+    display: inline !important;
+}
+img.withText {
+    height: 48px !important;
+    border: 1px solid #ddd !important;
+    margin: 0px !important;
+    margin-bottom: 6px !important;
+    padding: 0px !important;
+}
+</style>
 
-법관이 중대한 심신상의 장해로 직무를 수행할 수 없을 때에는 법률이 정하는 바에 의하여 퇴직하게 할 수 있다. 타인의 범죄행위로 인하여 생명·신체에 대한 피해를 받은 국민은 법률이 정하는 바에 의하여 국가로부터 구조를 받을 수 있다.
+## <img class="withText" src="/img/korea_flag.png" alt="[KR]" /> 고현수 | Hans Ko
 
-행정권은 대통령을 수반으로 하는 정부에 속한다. 국가의 세입·세출의 결산, 국가 및 법률이 정한 단체의 회계검사와 행정기관 및 공무원의 직무에 관한 감찰을 하기 위하여 대통령 소속하에 감사원을 둔다.
+### <img class="withText" src="/img/awsskills.png" alt="[AWS]" /> World Skills Korea - Cloud Computing ([info](https://meister.hrdkorea.or.kr/sub/3/2/1/20160512110924569100_view.do))
 
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
+#### 2021
+| # | Mission | Services |
+| ------------- | ------------- | ------------- |
+| [Jibang Day 1](https://github.com/AWS-Skills/2021/tree/main/jibang/day1)  | IT Infrastructure | <img src="/img/aws/vpc.svg" alt="" height="48" /> <img src="/img/aws/elb.svg" alt="" height="48" /> <img src="/img/aws/ec2.svg" alt="" height="48" /> <img src="/img/aws/asg.svg" alt="" height="48" /> |
+| [Korea Day 1](https://github.com/AWS-Skills/2021/tree/main/korea/day1)  | Web Service Provisioning | <img src="/img/aws/cloudfront.svg" alt="" height="48" /> <img src="/img/aws/s3.svg" alt="" height="48" /> <img src="/img/aws/asg.svg" alt="" height="48" /> <img src="/img/aws/cloudwatch.svg" alt="" height="48" /> |
+| [Korea Day 2](https://github.com/AWS-Skills/2021/tree/main/korea/day2)  | Automation | <img src="/img/aws/ecr.svg" alt="" height="48" /> <img src="/img/aws/codecommit.svg" alt="" height="48" /> <img src="/img/aws/codebuild.svg" alt="" height="48" /> <img src="/img/aws/codedeploy.svg" alt="" height="48" /> <img src="/img/aws/codepipeline.svg" alt="" height="48" /> |
+| [Korea Day 3](https://github.com/AWS-Skills/2021/tree/main/korea/day3)  | Trouble Shooting | <img src="/img/aws/iam.svg" alt="" height="48" /> <img src="/img/aws/ecr.svg" alt="" height="48" /> <img src="/img/aws/lambda.svg" alt="" height="48" />  |
 
-```python
-print('helllo world test')
-for i in range(10):
-    print(i)
-```
+#### 2022
+| # | Mission | Services |
+| ------------- | ------------- | ------------- |
+| [Jibang Day 1](https://github.com/AWS-Skills/2022/tree/main/jibang/day1) | Web Service Provisioning | <img src="/img/aws/vpc.svg" alt="" height="48" /> <img src="/img/aws/elb.svg" alt="" height="48" /> <img src="/img/aws/route53.svg" alt="" height="48" /> <img src="/img/aws/ec2.svg" alt="" height="48" /> |
+| [Jibang Day 2](https://github.com/AWS-Skills/2022/tree/main/jibang/day2) | Automation | <img src="/img/aws/kinesisdatastreams.svg" alt="" height="48" /> <img src="/img/aws/kinesisdataanalytics.svg" alt="" height="48" /> <img src="/img/aws/s3.svg" alt="" height="48" /> <img src="/img/aws/cloudwatch.svg" alt="" height="48" /> |
+| [Korea Day 1](https://github.com/AWS-Skills/2022/tree/main/korea/day1)  | Web Service Provisioning | <img src="/img/aws/eks.svg" alt="" height="48" /> <img src="/img/aws/ecr.svg" alt="" height="48" /> <img src="/img/aws/cloudwatch.svg" alt="" height="48" /> |
+| [Korea Day 2](https://github.com/AWS-Skills/2022/tree/main/korea/day2) | Automation | <img src="/img/aws/route53.svg" alt="" height="48" /> <img src="/img/aws/ecs.svg" alt="" height="48" /> <img src="/img/aws/codecommit.svg" alt="" height="48" /> <img src="/img/aws/codebuild.svg" alt="" height="48" /> <img src="/img/aws/codedeploy.svg" alt="" height="48" /> <img src="/img/aws/codepipeline.svg" alt="" height="48" /> |
+| [Korea Day 3](https://github.com/AWS-Skills/2022/tree/main/korea/day3) | Trouble Shooting | <img src="/img/aws/s3.svg" alt="" height="48" /> <img src="/img/aws/cloudformation.svg" alt="" height="48" /> |
+
+#### 2023
+| # | Mission | Services |
+| ------------- | ------------- | ------------- |
+| [Jibang Day 1](https://github.com/AWS-Skills/2023/tree/main/jibang/day1) | Web Service Provisioning | <img src="/img/aws/elb.svg" alt="" height="48" /> <img src="/img/aws/cloudfront.svg" alt="" height="48" /> <img src="/img/aws/ecr.svg" alt="" height="48" /> <img src="/img/aws/ecs.svg" alt="" height="48" /> |
+| [Jibang Day 2](https://github.com/AWS-Skills/2023/tree/main/jibang/day2) | Automation | <img src="/img/aws/kinesisdatastreams.svg" alt="" height="48" /> <img src="/img/aws/kinesisfirehose.svg" alt="" height="48" /> <img src="/img/aws/glue.svg" alt="" height="48" /> <img src="/img/aws/s3.svg" alt="" height="48" /> |
+| [Korea Day 1](https://github.com/AWS-Skills/2023/tree/main/korea/day1)  | Web Service Provisioning | <img src="/img/aws/cloudfront.svg" alt="" height="48" /> <img src="/img/aws/ecs.svg" alt="" height="48" /> <img src="/img/aws/fargate.svg" alt="" height="48" /> <img src="/img/aws/rds.svg" alt="" height="48" /> <img src="/img/aws/s3.svg" alt="" height="48" /> <img src="/img/aws/cloudwatch.svg" alt="" height="48" /> |
+| [Korea Day 2](https://github.com/AWS-Skills/2023/tree/main/korea/day2) | Automation | <img src="/img/aws/kinesis.svg" alt="" height="48" /> <img src="/img/aws/cloudfront.svg" alt="" height="48" /> <img src="/img/aws/athena.svg" alt="" height="48" /> <img src="/img/aws/ecs.svg" alt="" height="48" /> <img src="/img/aws/lambda.svg" alt="" height="48" /> <img src="/img/aws/s3.svg" alt="" height="48" /> |
+| [Korea Day 3](https://github.com/AWS-Skills/2023/tree/main/korea/day3) | Trouble Shooting | <img src="/img/aws/ecs.svg" alt="" height="48" /> <img src="/img/aws/cloudformation.svg" alt="" height="48" /> <img src="/img/aws/iam.svg" alt="" height="48" /> <img src="/img/aws/s3.svg" alt="" height="48" /> |
+ 
+#### 2024
+| # | Mission | Services |
+| ------------- | ------------- | ------------- |
+| [Jibang Day 1](https://github.com/AWS-Skills/2024/tree/main/jibang/day1) | Web Service Provisioning | <img src="/img/aws/fargate.svg" alt="" height="48" /> <img src="/img/aws/eks.svg" alt="" height="48" /> <img src="/img/aws/documentdb.svg" alt="" height="48" /> <img src="/img/aws/elasticache.svg" alt="" height="48" /> <img src="/img/aws/secretsmanager.svg" alt="" height="48" /> |
+| [Jibang Day 2](https://github.com/AWS-Skills/2024/tree/main/jibang/day2) | Automation | <img src="/img/aws/fargate.svg" alt="" height="48" /> <img src="/img/aws/s3.svg" alt="" height="48" /> <img src="/img/aws/codecommit.svg" alt="" height="48" /> <img src="/img/aws/codebuild.svg" alt="" height="48" /> <img src="/img/aws/codedeploy.svg" alt="" height="48" /> <img src="/img/aws/codepipeline.svg" alt="" height="48" /> |
+| [Korea Day 1](https://github.com/AWS-Skills/2024/tree/main/korea/day1) | | |
+| [Korea Day 2](https://github.com/AWS-Skills/2024/tree/main/korea/day2) | | |
+| [Korea Day 3](https://github.com/AWS-Skills/2024/tree/main/korea/day3) | | |
+
+</html>
