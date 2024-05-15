@@ -25,3 +25,42 @@
 - [Killercoda](https://killercoda.com/killer-shell-cka)
 - [Killer Shell](https://killer.sh/)
 - [KodeKloud](https://kodekloud.com/)
+
+### 커리큘럼
+- Pod
+- Deployment
+- Service
+  - ClusterIP
+  - NodePort
+  - LoadBalancer
+  - ExternalName
+- Ingress
+- Configmap / Secret
+- Volume
+  - emptyDir
+  - hostPath
+  - PV / PVC
+- DaemonSet
+- Static Pod
+- StatefulSet
+- Job / CronJob
+---
+- Package Manager
+  - Helm
+- Image Registty
+  - Harbor
+- Monitoring / Testing
+  - metrics server
+  - Prometheus
+  - Loki
+  - Grafana
+  - [k6](https://www.youtube.com/watch?v=1mtYVDA2_iQ&t=355s)
+- CI / CD
+  - Argocd
+  - Jenkins
+  - Kustomize
+- Block Storage
+  - Longhorn
+- Security
+  - Vault
+  - Keycloak
